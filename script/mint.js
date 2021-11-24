@@ -1,1 +1,1 @@
-window.promt("what is your name?");
+window.prompt("enter your name")
