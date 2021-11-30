@@ -7,18 +7,18 @@
 //=============================================================
 
 
-// var temperature = -0;//Celcius
+var temperature = 16;//Celcius
 
-// if ( temperature >30 ) {
-//     console.log("It's hot now");
+if ( temperature >30 ) {
+    console.log("It's hot now");
     
-// } else if( temperature > 0 && temperature <=30) {
-//     console.log("It's warm now");
-// }
+} else if( temperature > 0 && temperature <=30) {
+    console.log("It's warm now");
+}
 
-// else{
-//     console.log("It's COLD NOW");
-// }
+else{
+    console.log("It's COLD NOW");
+}
 
 // var hour = 5;
 
@@ -29,11 +29,11 @@
 //     console.log("It's LIGHT now");
     
 // };
-var myName = window.prompt("Enter your name")
+// var myName = window.prompt("Enter your name")
 
-if (!(myName =="")) {
-    console.log("Hello", myName);
-} else {
-    console.log("You did not Enter your name Please enter Your name");
+// if (!(myName =="")) {
+//     console.log("Hello", myName);
+// } else {
+//     console.log("You did not Enter your name Please enter Your name");
     
-}
+// }
